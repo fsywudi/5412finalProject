@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7727ef0d-2c37-4aec-911c-bb1c4ce06b29" name="Changes" comment="" />
+    <list default="true" id="7727ef0d-2c37-4aec-911c-bb1c4ce06b29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="branch2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -27,19 +29,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Azure Web App: finalproject:finalproject" type="com.microsoft.intellij.run.configuration.WebAppConfigurationType" factoryName="Azure Web App" editBeforeRun="true">
       <option name="appServicePlanId" value="/subscriptions/5553c45d-796e-42dc-bb8b-ca7e9eee666e/resourceGroups/finalproject/providers/Microsoft.Web/serverfarms/ASP-finalproject-8721" />
       <option name="appServicePlanName" value="" />
       <option name="applicationLogLevel" value="Error" />
-      <option name="artifactIdentifier" value="org.example:finalproject:1.0-SNAPSHOT" />
-      <option name="azureArtifactType" value="Maven" />
+      <option name="artifactIdentifier" value="$PROJECT_DIR$/target/finalproject.war" />
+      <option name="azureArtifactType" value="File" />
       <option name="creatingAppServicePlan" value="false" />
       <option name="creatingNew" value="false" />
       <option name="creatingResGrp" value="false" />
@@ -58,7 +60,7 @@
       <option name="projectBase" value="" />
       <option name="projectType" value="" />
       <option name="region" value="westus" />
-      <option name="resourceGroup" value="" />
+      <option name="resourceGroup" value="finalproject" />
       <option name="slotName" />
       <option name="slotPanelVisible" value="false" />
       <option name="subscriptionId" value="5553c45d-796e-42dc-bb8b-ca7e9eee666e" />
@@ -67,12 +69,11 @@
       <option name="webAppContainer" value="tomcat 9.0" />
       <option name="webAppId" value="/subscriptions/5553c45d-796e-42dc-bb8b-ca7e9eee666e/resourceGroups/finalproject/providers/Microsoft.Web/sites/xvzxcgvdsv" />
       <option name="webAppJavaVersion" value="11" />
-      <option name="webAppName" value="" />
+      <option name="webAppName" value="xvzxcgvdsv" />
       <option name="webServerLogQuota" value="35" />
       <option name="webServerRetentionPeriod" value="0" />
       <method v="2">
         <option name="Maven.BeforeRunTask" enabled="true" file="$PROJECT_DIR$/pom.xml" goal="package" />
-        <option name="ConnectionRunnerForConfigurationId" enabled="false" />
       </method>
     </configuration>
   </component>
