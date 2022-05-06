@@ -4,16 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7727ef0d-2c37-4aec-911c-bb1c4ce06b29" name="Changes" comment="" />
+    <list default="true" id="7727ef0d-2c37-4aec-911c-bb1c4ce06b29" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/target/finalproject/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/finalproject/index.jsp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="branch2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,12 +114,20 @@
       <option name="project" value="LOCAL" />
       <updated>1651795615453</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Web app initialization">
+      <created>1651796088453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651796088453</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialized a web app" />
     <MESSAGE value="Made a small change" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made a small change" />
+    <MESSAGE value="Web app initialization" />
+    <option name="LAST_COMMIT_MESSAGE" value="Web app initialization" />
   </component>
 </project>
