@@ -19,7 +19,7 @@
           <entry type="LOCAL">
             <value>
               <list>
-                <branch-info repo="$PROJECT_DIR$" source="main" />
+                <branch-info repo="$PROJECT_DIR$" source="branch1" />
               </list>
             </value>
           </entry>
